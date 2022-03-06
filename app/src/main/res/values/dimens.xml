@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icono_perfil">80dp</dimen>
+    <dimen name="icono_perfil2">80dp</dimen>
+    <dimen name="nav_headers">20dp</dimen>
+</resources>
